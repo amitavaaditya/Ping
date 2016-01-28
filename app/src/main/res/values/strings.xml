@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ping</string>
+
+    <!--WebSocketFragment-->
+    <string name="ip_address">IP Address</string>
+    <string name="port">Port</string>
+    <string name="button_connect">Connect</string>
+
+    <!--LoginFragment-->
+    <string name="login_text">Please login to your account</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="checkbox">Remember me</string>
+
+    <!--MessageFragment-->
+    <string name="send">SEND</string>
+
+    <!--UsersFragment-->
+    <string name="select_user">Click on any online user to initiate chat session</string>
+</resources>
